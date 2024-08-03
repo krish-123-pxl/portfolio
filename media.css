@@ -1,4 +1,8 @@
-
+@media (min-width:768px) {
+    .menu-icon{
+        display: none;
+    }
+}
 @media (max-width:848px) {
     .contact-btn{
         padding:4px 9px;
